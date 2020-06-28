@@ -9,4 +9,4 @@ Hauptfigur und Erzähler der humorvollen Kurzgeschichten ist Nick (Nicolas), ein
 * nicht besonders gut in der Schule
 * versteht sich gut mit seinen Klassenkameraden
 
-> „Prima“
+> Prima
