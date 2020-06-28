@@ -10,3 +10,6 @@ Hauptfigur und Erzähler der humorvollen Kurzgeschichten ist Nick (Nicolas), ein
 * versteht sich gut mit seinen Klassenkameraden
 
 > Prima
+
+<img src=https://media1.faz.net/ppmedia/aktuell/feuilleton/1023998819/1.204695/default/der-kleine-nick.jpg/>
+[Quelle: https://media1.faz.net/ppmedia/aktuell/feuilleton/1023998819/1.204695/default/der-kleine-nick.jpg]
